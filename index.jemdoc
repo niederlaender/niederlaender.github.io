@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Simon K. Niederländer
+
+~~~
+{}{img_left}{niederlaender.jpeg}{alt text}{159px}{212px}{}
+Research and Teaching Assistant \n
+[https://www.ist.uni-stuttgart.de Institute for Systems Theory and Automatic Control] \n
+[https://www.uni-stuttgart.de University of Stuttgart] \n
+Pfaffenwaldring 9 \n
+70569 Stuttgart \n
+Germany \n
+
+Email: niederlaender\[at\]ist.uni-stuttgart.de \n
+Phone: \+49 (0)711 685-67753 \n
+
+\[[https://www.uni-stuttgart.de/en CV]\] \[[https://scholar.google.com/citations?user=jTo189kAAAAJ&hl=en Google Scholar]\] \[[https://www.researchgate.net/profile/Simon-Niederlaender ResearchGate]\]
+~~~
+
+== Short Bio
+I am a research and teaching assistant associated with the [https://www.ist.uni-stuttgart.de Institute for Systems Theory and Automatic Control] at the [https://www.uni-stuttgart.de University of Stuttgart]. I received a B.Eng. degree in Mechanical Engineering from [https://www.th-deg.de/en Deggendorf Institute of Technology] and a M.Sc. degree in Engineering Cybernetics from the [https://www.uni-stuttgart.de/en University of Stuttgart].
+
+== News
+- *June 2021*. The paper "[https://epubs.siam.org/doi/abs/10.1137/20M1323679 Second-order dynamics with Hessian-driven damping for linearly constrained convex minimization]" was accepted for publication in SIAM Journal on Control and Optimization.
+
+== Research Interests
+My research interests include
+- Convex Optimization
+- Dynamical Systems
+- Monotone Operators 

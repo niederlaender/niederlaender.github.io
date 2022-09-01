@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications
+
+== Preprints
+- On the Arrow--Hurwicz differential system for linearly constrained convex minimization \n
+S. K. Niederländer \n
+Optimization (2022), submitted
+
+== Journal Articles
+- [https://epubs.siam.org/doi/abs/10.1137/20M1323679 Second-order dynamics with Hessian-driven damping for linearly constrained convex minimization] \n
+S. K. Niederländer \n
+SIAM J. Control Optim., 59 (2021), pp. 3708-3736
+
+- [https://link.springer.com/article/10.1007/s00332-018-9516-4 Distributed coordination for nonsmooth convex optimization via saddle-point dynamics] \n
+J. Cortés and S. K. Niederländer \n
+J. Nonlinear Sci., 29 (2019), pp. 1247-1272
+
+== Conference Proceedings
+- [https://ieeexplore.ieee.org/document/7798404 Exponentially fast distributed coordination for nonsmooth convex optimization] \n
+S. K. Niederländer, F. Allgöwer and J. Cortés \n
+Proc. IEEE Conf. Decis. Control, Las Vegas, Nevada, USA, 2016, pp. 1036-1041
+
+- [https://ieeexplore.ieee.org/document/7402310 Distributed coordination for separable convex optimization with coupling constraints] \n
+S. K. Niederländer and J. Cortés \n
+Proc. IEEE Conf. Decis. Control, Osaka, Japan, 2015, pp. 694-699 
